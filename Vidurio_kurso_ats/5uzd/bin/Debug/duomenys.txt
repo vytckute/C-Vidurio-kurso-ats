@@ -1,0 +1,1 @@
+Lintel,3000,Kuršiu 48 Kaunas;Limedika,1000,Erdves 51 Kauno raj.;Voldas,500,Varniu 15 Vilnius;Smilge,200,Šilko 15 Jonava;Sikas,8000,Siaures 6 Klaipeda

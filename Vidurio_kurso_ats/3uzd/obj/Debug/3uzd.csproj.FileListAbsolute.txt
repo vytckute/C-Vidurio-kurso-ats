@@ -1,0 +1,6 @@
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\bin\Debug\3uzd.exe.config
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\bin\Debug\3uzd.exe
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\bin\Debug\3uzd.pdb
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\obj\Debug\3uzd.csprojResolveAssemblyReference.cache
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\obj\Debug\3uzd.exe
+C:\Users\Vita\Desktop\kursai\c\Vidurio_kurso_ats\3uzd\obj\Debug\3uzd.pdb
